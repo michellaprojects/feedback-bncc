@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1764223828401",
+    "name": "Michella",
+    "email": "michellaradika@gmail.com",
+    "eventName": "ABC",
+    "division": "LnT",
+    "rating": 5,
+    "comment": "mantap",
+    "suggestion": "- ",
+    "createdAt": "2025-11-27T06:10:28.401Z",
+    "status": "open"
+  },
+  {
+    "id": "1764223886231",
+    "name": "Jiao mei ",
+    "email": "adkurniawan@binus.edu",
+    "eventName": "ABC",
+    "division": "PR",
+    "rating": 3,
+    "comment": "kurang responsif",
+    "suggestion": "lebih responsif",
+    "createdAt": "2025-11-27T06:11:26.231Z",
+    "status": "open"
+  }
+]
